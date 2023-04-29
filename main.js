@@ -89,12 +89,9 @@ $(() => {
         submitted = false;
         answers = new Map();
 
-        for (let i = 0; i < questions.length; i++) {
-            $("#options").children().each(function() {
-                $(this).removeClass().addClass('option');
-                console.log($(this));
-            })
-        }
+        $("#options").children().each(function() {
+            $(this).removeClass().addClass('option');
+        });
         
         for (let i = 0; i < questions.length; i++) {
             $($('#questions').children()[i]).text(i + 1).toggleClass().addClass('question-btn');
