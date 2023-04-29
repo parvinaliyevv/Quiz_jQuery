@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the smallest planet in our solar system?",
+            "options": [
+                "Mercury",
+                "Venus",
+                "Earth",
+                "Mark"
+            ],
+            "answer": "Mercury"
+        },
+        {
+            "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+            "options": [
+                "Harper Lee",
+                "J.D. Salinger",
+                "Ernest Hemingway",
+                "F. Scott Fitzgerald"
+            ],
+            "answer": "Harper Lee"
+        },
+        {
+            "question": "What is the capital city of Australia?",
+            "options": [
+                "Sydney",
+                "Melbourne",
+                "Canberra",
+                "Brisbane"
+            ],
+            "answer": "Canberra"
+        },
+        {
+            "question": "Which planet in our solar system is known for having a set of iconic rings around it?",
+            "options": [
+                "Jupiter",
+                "Saturn",
+                "Uranus",
+                "Neptune"
+            ],
+            "answer": "Saturn"
+        },
+        {
+            "question": "Who is credited with inventing the World Wide Web?",
+            "options": [
+                "Bill Gates",
+                "Steve Jobs",
+                "Tim Berners-Lee",
+                "Mark Zuckerberg"
+            ],
+            "answer": "Tim Berners-Lee"
+        },
+        {
+            "question": "Which famous artist painted the Mona Lisa?",
+            "options": [
+                "Vincent van Gogh",
+                "Michelangelo",
+                "Leonardo da Vinci",
+                "Pablo Picasso"
+            ],
+            "answer": "Leonardo da Vinci"
+        },
+        {
+            "question": "Who was the first person to step on the moon?",
+            "options": [
+                "Neil Armstrong",
+                "Buzz Aldrin",
+                "Michael Collins",
+                "Yuri Gagarin"
+            ],
+            "answer": "Neil Armstrong"
+        },
+        {
+            "question": "Which planet in our solar system has the shortest day?",
+            "options": [
+                "Venus",
+                "Mercury",
+                "Mars",
+                "Jupiter"
+            ],
+            "answer": "Mercury"
+        },
+        {
+            "question": "Who painted the famous work of art 'The Starry Night'?",
+            "options": [
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Salvador Dali"
+            ],
+            "answer": "Vincent van Gogh"
+        },
+        {
+            "question": "Which country won the first ever football World Cup in 1930?",
+            "options": [
+                "Argentina",
+                "Brazil",
+                "Uruguay",
+                "Italy"
+            ],
+            "answer": "Uruguay"
+        }
+    ]
+}
