@@ -1,104 +1,94 @@
 {
     "questions": [
         {
-            "question": "What is the smallest planet in our solar system?",
-            "options": [
-                "Mercury",
-                "Venus",
-                "Earth",
-                "Mark"
-            ],
-            "answer": "Mercury"
-        },
-        {
-            "question": "Who wrote the novel 'To Kill a Mockingbird'?",
-            "options": [
-                "Harper Lee",
-                "J.D. Salinger",
-                "Ernest Hemingway",
-                "F. Scott Fitzgerald"
-            ],
-            "answer": "Harper Lee"
-        },
-        {
-            "question": "What is the capital city of Australia?",
-            "options": [
-                "Sydney",
-                "Melbourne",
-                "Canberra",
-                "Brisbane"
-            ],
-            "answer": "Canberra"
-        },
-        {
-            "question": "Which planet in our solar system is known for having a set of iconic rings around it?",
-            "options": [
-                "Jupiter",
-                "Saturn",
-                "Uranus",
-                "Neptune"
-            ],
-            "answer": "Saturn"
-        },
-        {
-            "question": "Who is credited with inventing the World Wide Web?",
-            "options": [
-                "Bill Gates",
-                "Steve Jobs",
-                "Tim Berners-Lee",
-                "Mark Zuckerberg"
-            ],
-            "answer": "Tim Berners-Lee"
-        },
-        {
-            "question": "Which famous artist painted the Mona Lisa?",
-            "options": [
-                "Vincent van Gogh",
-                "Michelangelo",
-                "Leonardo da Vinci",
-                "Pablo Picasso"
-            ],
-            "answer": "Leonardo da Vinci"
-        },
-        {
-            "question": "Who was the first person to step on the moon?",
-            "options": [
-                "Neil Armstrong",
-                "Buzz Aldrin",
-                "Michael Collins",
-                "Yuri Gagarin"
-            ],
-            "answer": "Neil Armstrong"
-        },
-        {
-            "question": "Which planet in our solar system has the shortest day?",
-            "options": [
-                "Venus",
-                "Mercury",
-                "Mars",
-                "Jupiter"
-            ],
-            "answer": "Mercury"
-        },
-        {
-            "question": "Who painted the famous work of art 'The Starry Night'?",
-            "options": [
-                "Vincent van Gogh",
-                "Pablo Picasso",
-                "Leonardo da Vinci",
-                "Salvador Dali"
-            ],
-            "answer": "Vincent van Gogh"
-        },
-        {
-            "question": "Which country won the first ever football World Cup in 1930?",
-            "options": [
-                "Argentina",
-                "Brazil",
-                "Uruguay",
-                "Italy"
-            ],
-            "answer": "Uruguay"
-        }
+      "question": "What is the Azure service that allows you to deploy and manage virtual machines?",
+      "options": [
+        "Azure Functions",
+        "Azure Kubernetes Service",
+        "Azure Virtual Machines",
+        "Azure Container Instances"
+      ],
+      "answer": "Azure Virtual Machines"
+    },
+    {
+      "question": "What is the maximum size of an Azure Blob storage account?",
+      "options": [
+        "5 TB",
+        "10 TB",
+        "20 TB",
+        "50 TB"
+      ],
+      "answer": "5 TB"
+    },
+    {
+      "question": "What is Azure DevOps used for?",
+      "options": [
+        "Continuous Integration/Continuous Deployment (CI/CD)",
+        "Data analysis and visualization",
+        "Managing virtual machines",
+        "Deploying and managing containers"
+      ],
+      "answer": "Continuous Integration/Continuous Deployment (CI/CD)"
+    },
+    {
+      "question": "Which Azure service is used for real-time messaging and event-driven architectures?",
+      "options": [
+        "Azure Event Grid",
+        "Azure Event Hubs",
+        "Azure Notification Hubs",
+        "Azure Service Bus"
+      ],
+      "answer": "Azure Event Hubs"
+    },
+    {
+      "question": "What is the Azure service used to store and manage unstructured data?",
+      "options": [
+        "Azure Cosmos DB",
+        "Azure Table storage",
+        "Azure Blob storage",
+        "Azure Data Lake Storage"
+      ],
+      "answer": "Azure Blob storage"
+    },
+    {
+      "question": "Which Azure service is used for serverless computing?",
+      "options": [
+        "Azure Functions",
+        "Azure Logic Apps",
+        "Azure Service Fabric",
+        "Azure Event Grid"
+      ],
+      "answer": "Azure Functions"
+    },
+    {
+      "question": "What is the Azure service used for big data processing and analytics?",
+      "options": [
+        "Azure Stream Analytics",
+        "Azure HDInsight",
+        "Azure Databricks",
+        "Azure Data Factory"
+      ],
+      "answer": "Azure HDInsight"
+    },
+    {
+      "question": "What is the Azure service used for managing and scaling Kubernetes?",
+      "options": [
+        "Azure Kubernetes Service",
+        "Azure Container Instances",
+        "Azure Container Registry",
+        "Azure Service Fabric Mesh"
+      ],
+      "answer": "Azure Kubernetes Service"
+    },
+    {
+      "question": "What is the Azure service used for managing and monitoring resources?",
+      "options": [
+        "Azure Monitor",
+        "Azure Service Health",
+        "Azure Resource Manager",
+        "Azure Advisor"
+      ],
+      "answer": "Azure Resource Manager"
+    }
     ]
 }
